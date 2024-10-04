@@ -1,0 +1,5 @@
+.lw { font-size: 60px; }
+article p:first-child {
+    font-size: 120%;
+    font-weight: bold;
+} 
